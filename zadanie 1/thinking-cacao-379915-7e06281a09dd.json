@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "thinking-cacao-379915",
+  "private_key_id": "7e06281a09dd2920d20ba8a9dd455098472bb053",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCvVyh+WXNqxXHx\nrB0Ho+kV3jh2K9++PhecAbLxS8dfLNqwBqRej4f1gf0nLaV40QmqNhB2Z+Z5MzUc\n0n7zFSQlv8Z8vP6buH8M91PPgh36nEYBh1YgImd1MHcxb23OvFgW+dutdQxIRM3+\nEHliW8ybSj1qHuUJx32AYZUWH4nNYzlb/6PmPmUEgzauY6rU82HHyrKci9PFPBl7\nhN930/j261N8MuZm601CYMsc/ElfyylmVhktq5atNve75kJYtE1Ta9bGqtjxF1Wy\nV/4jLjyqcKwJzWNNpsr5xivgCvaRL1bSFj1NyD5CU7V6ESD9gYQBYdHdkyuFzIYq\nb2Bh2ayLAgMBAAECggEANbHdsy+mciSL28Pm0e+mke1O4hVWe9Zc+YflqhIYOHOu\ndqhaDqEqtAq+IRDP8xskuAy9Zt0zjZsaYTyu5rbrLmo3mPxxhfNuaOSWtF2224ee\nwpoUzFtszkzsu2VRvbUcztBuLwTAoaL8aBjYa0AMfOOzwfs7DY8bRkTb2H4I/62o\nsVZXPx1z7OdHys6gOrQE75JfloSeNlWCJnR7BFIBY3O11eV4VqKQcn0zZqCvwDeM\nUtQpgxDZtRGg633odLdtluoiTkNvVGt0swi2FU46xEXGOKrNzWQaFgZJdDveNAaV\nzS7n+QQeaWW2WnKwuEaUH+96bNc++Dg0aFic4+ri3QKBgQDfdtw6edGkYhJLnKmL\nHoK0UXbKiWxTlANK7QbqpuQcjA8njn309tDmfSy6EB9xPKi7l16skahzo1kj5MLP\nYnEQZkryhaKFvZiGInkMaPv+J6SmssJvir9DH+b04hp9UclN4HuA7x9ZKFrdod9J\nF3CjqGG1U3lhWMrhuqKtgWhsXQKBgQDI3pZ+EBI5le54R6IxmsuhUVHRps/e2k1K\n7MYfNK+gjJj4lel3zgmDCuemFVZzuc6cYyshpDQBumaYDzOsycj71Ge29b7Wn+19\ngT9lEFz8znGnQuN0YxdliWRBu2HsY1pnak1nDe8t+xUlELiNy4fCsMb8qlNllCCf\nzkY0zj4uBwKBgG847rYgKcsCkQ6XQ/+dSPrMzS5TpdoXgmgJf3bNaB4ZS/WpQ2Ho\ncuM1jExzd+LZiTYNSi7kNI6Rz+1AkAG+gn3iHA2Hm/OrAT5J7CvUGRBP1PCvan0v\n9rBHMaHS49JaIbKkN3ReECFFJ6zGQ6dShlq+lRs2F+Tu19PwG8X18e51AoGBALZ4\nbWFLHCMvrheZix9grQZ4Jsk6ra6VxI0BleCXLcu8rOF03Uc15bIi39ghng02hxfN\nhkrjLVM8jyIm/RxDmc4aX7T2fEvfsA/Ir1wRh0coClqVCqaZtZFJQ8fqfsQMZP14\ntaOeJt4wLj8jd2NntoYHrFuuJmAqNZC2A1TI3fdVAoGAF9QzMJUPN3KUe5z2+0ZH\nEOkRGSq2LMeDkkiUtEVfjLNScX6YBiX4MtMtgiL1tEyTSVbsz5vGAUuGBsBYQxx1\np8BWbuJDlVuy3Fo8O2j+vEMF7mrlWuwsNPvm7K/OGn0S10yfT+yeG3xA+LQo6nFS\nMh81jHoGQeAarA1KpxL6lY0=\n-----END PRIVATE KEY-----\n",
+  "client_email": "bigdata-frydlewska@thinking-cacao-379915.iam.gserviceaccount.com",
+  "client_id": "107023545150462541629",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bigdata-frydlewska%40thinking-cacao-379915.iam.gserviceaccount.com"
+}
